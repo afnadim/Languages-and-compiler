@@ -1,0 +1,19 @@
+ let
+	const MAX ~ 10;
+	var numberUnder11: Integer
+in
+	begin
+		numberUnder11 := 6;
+		if numberUnder11>0 then
+					begin
+					put('T'); put('E'); put('S'); put('T'); put('I'); put('N'); put('G'); put('!');
+						putint(numberUnder11); 
+						put('a'); put('a');
+						numberUnder11 := numberUnder11-1
+					end
+			else
+				begin
+				put('e');put('r');put('r');put('o');put('r');put(' ');put('1') 
+				end
+				! Number was too big
+	end

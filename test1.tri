@@ -1,0 +1,9 @@
+let
+var x : Integer ;
+var y : Integer
+in
+begin
+put('T'); put('E'); put('S'); put('T'); put('I'); put('N'); put('G'); put('!');
+x := 0 ;
+y := 1
+end
